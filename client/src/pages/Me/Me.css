@@ -1,0 +1,9 @@
+.platform {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.platform-link {
+  padding: 8px 10px;
+}
