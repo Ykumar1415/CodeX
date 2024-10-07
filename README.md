@@ -30,3 +30,5 @@ Ensure you have the following installed on your system:
 ```bash
 git clone https://github.com/yourusername/codex.git
 cd codex
+npm install (for both client and server) 
+npm start (for both client and server) 
